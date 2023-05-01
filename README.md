@@ -12,15 +12,17 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
+  
 - [👥 Authors](#authors)
 
-- 🔭 Future Features (#Future-Features)
+- 🔭 [Future Feature](#Future-Features)
 
-- 🤝 Contributing (#Contributing)
 
-- ⭐️ Show your support(#Show your support)
+- 🤝 [Contributing] (#Contributing)
 
-- 🙏 Acknowledgements(#Acknowledgements)
+- ⭐️ [Show-your-support](#Show-your-support)
+
+- 🙏 [Acknowledgements](#Acknowledgements)
 - ❓ FAQ (OPTIONAL)(#FAQ)
 
 
