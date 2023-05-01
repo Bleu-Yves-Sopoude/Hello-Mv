@@ -11,21 +11,12 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage)
-  
+  - [Usage](#usage)  
 - [👥 Authors](#authors)
-
 - 🔭 [Future Feature](#futurefeatures)
-
-
 - 🤝 [Contributing](#contributing)
-
 - ⭐️ [Show your support](#showyoursupport)
-
 - 🙏 [Acknowledgements](#acknowledgements)
-
-- ❓ [FAQ (OPTIONAL)](#faq)
-
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -144,23 +135,12 @@ I would like to thank my code reviewer  shella12
 
 
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-    Add at least 2 questions new developers would ask when they decide to use your project.
-
-    [Question_1]
-        [Answer_1]
-
-    [Question_2]
-        [Answer_2]
-
-<p align="right">(<a href="#readme-top"">back to top</a>)</p>
-
-
 
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
+Hello-Microverse
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
