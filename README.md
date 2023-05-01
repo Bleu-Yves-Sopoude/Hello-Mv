@@ -14,13 +14,13 @@
   - [Usage](#usage)
 - [👥 Authors](#authors)
 
-- 🔭 Future Features(#Future Features)
+- 🔭 Future Features (#Future-Features)
 
-- 🤝 Contributing (#Contributing )
+- 🤝 Contributing (#Contributing)
 
-- ⭐️ Show your support(#Show your support )
+- ⭐️ Show your support(#Show your support)
 
-- 🙏 Acknowledgements(#Acknowledgements )
+- 🙏 Acknowledgements(#Acknowledgements)
 - ❓ FAQ (OPTIONAL)(#FAQ)
 
 
@@ -108,7 +108,7 @@ To run the project, open index.html
     [Html page]
     [Css]
 
-  <p align="right"> (<a href="#Future Features">back to top</a>) </p>
+  <p align="right"> (<a href="#readme-top"">back to top</a>) </p>
 
 
 ## 🤝 Contributing <a name="Contributing"></a>
@@ -119,7 +119,7 @@ Feel free to check the issues page.
 
 
 
-<p align="right">(<a href="#Contributing">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"">back to top</a>)</p>
 
 
 ## ⭐️ Show your support <a name="Show your support"></a>
@@ -128,7 +128,7 @@ Feel free to check the issues page.
 
 If you like this project support it by giving one star
 
-<p align="right">(<a href="#Show your support">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"">back to top</a>)</p>
 
 
 
@@ -139,7 +139,7 @@ If you like this project support it by giving one star
 I would like to thank my Microverse for this experience
 I would like to thank my code reviewer  shella12
 
-<p align="right">(<a href="#Acknowledgments">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"">back to top</a>)</p>
 
 
 
@@ -153,7 +153,7 @@ I would like to thank my code reviewer  shella12
     [Question_2]
         [Answer_2]
 
-<p align="right">(<a href="#FAQ">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"">back to top</a>)</p>
 
 
 
