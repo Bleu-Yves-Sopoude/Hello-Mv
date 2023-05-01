@@ -11,12 +11,13 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
-  - [Usage](#usage) 
+  - [Usage](#usage)  
 - [👥 Authors](#authors)
 - 🔭 [Future Feature](#futurefeatures)
 - 🤝 [Contributing](#contributing)
 - ⭐️ [Show your support](#showyoursupport)
 - 🙏 [Acknowledgements](#acknowledgements)
+- ❓ [FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -141,4 +142,6 @@ I would like to thank my code reviewer  shella12
 
 This project is [MIT](./LICENSE) licensed.
 
+Hello-Microverse
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
