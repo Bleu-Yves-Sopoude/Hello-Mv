@@ -12,7 +12,20 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
+  
 - [👥 Authors](#authors)
+
+- 🔭 [Future Feature](#futurefeatures)
+
+
+- 🤝 [Contributing](#contributing)
+
+- ⭐️ [Show your support](#showyoursupport)
+
+- 🙏 [Acknowledgements](#acknowledgements)
+
+- ❓ [FAQ (OPTIONAL)](#faq)
+
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -38,7 +51,7 @@
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Simple Hello Microverse</summary>
   <ul>
     
   </ul>
@@ -86,6 +99,64 @@ To run the project, open index.html
 
 - GitHub: [@Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude)
 - Linkedin: [@Bleu Yves Sopoude](https://www.linkedin.com/in/bleu-yves/)
+
+
+## 🔭 Future Features<a name="future features"></a>
+
+    Describe 1 - 3 features you will add to the project.
+
+    [Linters]
+    [Html page]
+    [Css]
+
+  <p align="right"> (<a href="#readme-top"">back to top</a>) </p>
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+
+
+<p align="right">(<a href="#readme-top"">back to top</a>)</p>
+
+
+## ⭐️ Show your support <a name="show your support"></a>
+
+   
+
+If you like this project support it by giving one star
+
+<p align="right">(<a href="#readme-top"">back to top</a>)</p>
+
+
+
+## 🙏 Acknowledgments <a name="acknowledgments"></a>
+
+  Give credit to everyone who inspired your codebase.
+
+I would like to thank my Microverse for this experience
+I would like to thank my code reviewer  shella12
+
+<p align="right">(<a href="#readme-top"">back to top</a>)</p>
+
+
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+    Add at least 2 questions new developers would ask when they decide to use your project.
+
+    [Question_1]
+        [Answer_1]
+
+    [Question_2]
+        [Answer_2]
+
+<p align="right">(<a href="#readme-top"">back to top</a>)</p>
+
+
 
 
 ## 📝 License <a name="license"></a>
