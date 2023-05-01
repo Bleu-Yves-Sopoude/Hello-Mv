@@ -23,9 +23,8 @@
 - ⭐️ [Show-your-support](#Show-your-support)
 
 - 🙏 [Acknowledgements](#Acknowledgements)
+
 - ❓ [FAQ (OPTIONAL)](#FAQ)
-
-
 
 - [📝 License](#license)
 
@@ -113,7 +112,7 @@ To run the project, open index.html
   <p align="right"> (<a href="#readme-top"">back to top</a>) </p>
 
 
-## 🤝 Contributing <a name="Contributing"></a>
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
