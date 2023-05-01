@@ -38,7 +38,7 @@
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Simple Hello Microverse</summary>
   <ul>
     
   </ul>
