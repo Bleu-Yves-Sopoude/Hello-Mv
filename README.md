@@ -23,7 +23,7 @@
 - ⭐️ [Show-your-support](#Show-your-support)
 
 - 🙏 [Acknowledgements](#Acknowledgements)
-- ❓ FAQ (OPTIONAL)(#FAQ)
+- ❓ [FAQ (OPTIONAL)](#FAQ)
 
 
 
