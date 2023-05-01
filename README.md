@@ -20,7 +20,7 @@
 
 - 🤝 [Contributing](#Contributing)
 
-- ⭐️ [Show-your-support](#Show-your-support)
+- ⭐️ [Show-your-support](#Show_your_support)
 
 - 🙏 [Acknowledgements](#Acknowledgements)
 
