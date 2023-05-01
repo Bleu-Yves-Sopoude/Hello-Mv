@@ -15,12 +15,12 @@
   
 - [👥 Authors](#authors)
 
-- 🔭 [Future Feature](#Future-Features)
+- 🔭 [Future Feature](#FutureFeatures)
 
 
 - 🤝 [Contributing](#Contributing)
 
-- ⭐️ [Show-your-support](#Show_your_support)
+- ⭐️ [Show your support](#Showyoursupport)
 
 - 🙏 [Acknowledgements](#Acknowledgements)
 
