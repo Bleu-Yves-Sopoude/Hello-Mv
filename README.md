@@ -101,7 +101,7 @@ To run the project, open index.html
 - Linkedin: [@Bleu Yves Sopoude](https://www.linkedin.com/in/bleu-yves/)
 
 
-## 🔭 Future Features<a name="future Features"></a>
+## 🔭 Future Features<a name="future features"></a>
 
     Describe 1 - 3 features you will add to the project.
 
