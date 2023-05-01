@@ -13,6 +13,18 @@
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+
+- 🔭 Future Features(#Future Features)
+
+- 🤝 Contributing (#Contributing )
+
+- ⭐️ Show your support(#Show your support )
+
+- 🙏 Acknowledgements(#Acknowledgements )
+- ❓ FAQ (OPTIONAL)(#FAQ)
+
+
+
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -86,6 +98,64 @@ To run the project, open index.html
 
 - GitHub: [@Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude)
 - Linkedin: [@Bleu Yves Sopoude](https://www.linkedin.com/in/bleu-yves/)
+
+
+## 🔭 Future Features<a name="Future Features"></a>
+
+    Describe 1 - 3 features you will add to the project.
+
+    [Linters]
+    [Html page]
+    [Css]
+
+  <p align="right"> (<a href="#Future Features">back to top</a>) </p>
+
+
+## 🤝 Contributing <a name="Contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+
+
+<p align="right">(<a href="#Contributing">back to top</a>)</p>
+
+
+## ⭐️ Show your support <a name="Show your support"></a>
+
+   
+
+If you like this project support it by giving one star
+
+<p align="right">(<a href="#Show your support">back to top</a>)</p>
+
+
+
+## 🙏 Acknowledgments <a name="Acknowledgments"></a>
+
+  Give credit to everyone who inspired your codebase.
+
+I would like to thank my Microverse for this experience
+I would like to thank my code reviewer  shella12
+
+<p align="right">(<a href="#Acknowledgments">back to top</a>)</p>
+
+
+
+## ❓ FAQ (OPTIONAL) <a name="FAQ"></a>
+
+    Add at least 2 questions new developers would ask when they decide to use your project.
+
+    [Question_1]
+        [Answer_1]
+
+    [Question_2]
+        [Answer_2]
+
+<p align="right">(<a href="#FAQ">back to top</a>)</p>
+
+
 
 
 ## 📝 License <a name="license"></a>
