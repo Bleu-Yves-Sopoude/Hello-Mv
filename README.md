@@ -15,16 +15,16 @@
   
 - [👥 Authors](#authors)
 
-- 🔭 [Future Feature](#FutureFeatures)
+- 🔭 [Future Feature](#futurefeatures)
 
 
-- 🤝 [Contributing](#Contributing)
+- 🤝 [Contributing](#contributing)
 
-- ⭐️ [Show your support](#Showyoursupport)
+- ⭐️ [Show your support](#showyoursupport)
 
-- 🙏 [Acknowledgements](#Acknowledgements)
+- 🙏 [Acknowledgements](#acknowledgements)
 
-- ❓ [FAQ (OPTIONAL)](#FAQ)
+- ❓ [FAQ (OPTIONAL)](#faq)
 
 - [📝 License](#license)
 
