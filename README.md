@@ -18,7 +18,7 @@
 - 🔭 [Future Feature](#Future-Features)
 
 
-- 🤝 [Contributing] (#Contributing)
+- 🤝 [Contributing](#Contributing)
 
 - ⭐️ [Show-your-support](#Show-your-support)
 
