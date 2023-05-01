@@ -101,7 +101,7 @@ To run the project, open index.html
 - Linkedin: [@Bleu Yves Sopoude](https://www.linkedin.com/in/bleu-yves/)
 
 
-## 🔭 Future Features<a name="Future Features"></a>
+## 🔭 Future Features<a name="future Features"></a>
 
     Describe 1 - 3 features you will add to the project.
 
@@ -123,7 +123,7 @@ Feel free to check the issues page.
 <p align="right">(<a href="#readme-top"">back to top</a>)</p>
 
 
-## ⭐️ Show your support <a name="Show your support"></a>
+## ⭐️ Show your support <a name="show your support"></a>
 
    
 
@@ -133,7 +133,7 @@ If you like this project support it by giving one star
 
 
 
-## 🙏 Acknowledgments <a name="Acknowledgments"></a>
+## 🙏 Acknowledgments <a name="acknowledgments"></a>
 
   Give credit to everyone who inspired your codebase.
 
@@ -144,7 +144,7 @@ I would like to thank my code reviewer  shella12
 
 
 
-## ❓ FAQ (OPTIONAL) <a name="FAQ"></a>
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
     Add at least 2 questions new developers would ask when they decide to use your project.
 
